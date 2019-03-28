@@ -1,0 +1,23 @@
+{
+  "name": "shadowstate",
+  "version": "1.0.0",
+  "description": "A state manager using shadow dom and template strings",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "yarn rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurista/shadowstate.git"
+  },
+  "author": "Tim Urista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timurista/shadowstate/issues"
+  },
+  "homepage": "https://github.com/timurista/shadowstate#readme",
+  "devDependencies": {
+    "rollup": "^1.7.4"
+  }
+}
